@@ -3,7 +3,7 @@ entries:
   my-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-06-18T10:47:26.358905+08:00"
+    created: "2020-06-18T18:55:57.817915+08:00"
     description: A Helm chart for Kubernetes
     digest: 1d13c992dcf23aa6ae93aff23c52c733c053ec8c6f9e9a3cb520c2fa5debbc1f
     name: my-app
@@ -11,4 +11,14 @@ entries:
     urls:
     - https://whoseewind.github.io/helm-example/my-app-0.1.0.tgz
     version: 0.1.0
-generated: "2020-06-18T10:47:26.358151+08:00"
+  webhook-alidns:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-06-18T18:55:57.818488+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 92dfe6484aa79269fac5aa5b0e9d4dba650117259d7fa0f02e78c0b7475f6a3f
+    name: webhook-alidns
+    urls:
+    - https://whoseewind.github.io/helm-example/webhook-alidns-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-18T18:55:57.809905+08:00"
